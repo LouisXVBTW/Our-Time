@@ -1,10 +1,11 @@
-# our_time_works
+# Social App
 
-our time
+Our-Time
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a Flutter application, which would also use a server backend but i have hardcoded inputs
+for this repo.
 
 A few resources to get you started if this is your first Flutter project:
 
